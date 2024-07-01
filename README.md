@@ -12,7 +12,7 @@ This repository contains a collection of Java practice examples, demonstrating b
 
 **Getting Started:**
 
-1. Clone the repository using `git clone https://github.com/your-username/java-practice-examples.git`
+1. Clone the repository using `git clone https://github.com/owais2004/java-practice-examples.git`
 2. Open the project in your preferred Java IDE (e.g., Eclipse, IntelliJ IDEA, NetBeans)
 3. Run each Java class individually to see the output
 
